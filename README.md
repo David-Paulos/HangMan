@@ -1,2 +1,8 @@
-# HangMan
-The HangMan Game
+# The HangMan Game
+
+
+### To be played on the command line.
+
+
+- Requirements:
+ -[x] gfgfgf 
