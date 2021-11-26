@@ -10,11 +10,11 @@
 
 **Requirements:**
 
-You need to have Ruby programming language installed on your computer.
+    You need to have Ruby programming language installed on your computer.
  
 **Instructions:**
 
-On the terminal type $ ruby Hangman_class_app.rb.
+    On the terminal type $ ruby Hangman_class_app.rb.
 
 *Enjoy.*
  
