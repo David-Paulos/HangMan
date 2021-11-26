@@ -18,5 +18,5 @@ On the terminal type $ ruby Hangman_class_app.rb.
 
 *Enjoy.*
  
-
+<img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" /> <img height="128" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
